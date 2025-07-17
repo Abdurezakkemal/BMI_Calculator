@@ -25,6 +25,11 @@ Easily calculate your BMI based on your **height, weight, and gender**, and get 
 <!-- Add screenshots below -->
 <!-- ![Screenshot1](assets/images/screenshot1.png) -->
 <!-- ![Screenshot2](assets/images/screenshot2.png) -->
+![image alt](https://github.com/Abdurezakkemal/BMI_Calculator/blob/master/Screenshot%202025-07-11%20020813.png)
+![image alt](https://github.com/Abdurezakkemal/BMI_Calculator/blob/master/Screenshot%202025-07-17%20152227.png)
+![image alt](https://github.com/Abdurezakkemal/BMI_Calculator/blob/master/Screenshot%202025-07-17%20152249.png)
+![image alt](https://github.com/Abdurezakkemal/BMI_Calculator/blob/master/Screenshot%202025-07-17%20152336.png)
+![image alt](https://github.com/Abdurezakkemal/BMI_Calculator/blob/master/photo_2025-07-17_15-25-10.jpg)
 
 ---
 
